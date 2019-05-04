@@ -143,7 +143,7 @@
       <path value="$PROJECT_DIR$/vendor/symfony/debug" />
     </include_path>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="536" />
     <option name="y" value="43" />
     <option name="width" value="1400" />
